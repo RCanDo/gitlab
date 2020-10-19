@@ -1,7 +1,10 @@
 This is third file.
 What it's about?
-
+Fill in the empty space
 The answer in the next file...
 
+Add some line
+
+And another line :)
+
 Concurrent edition of the file03.txt on branch ak01.
-Why?
