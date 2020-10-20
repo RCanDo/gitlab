@@ -2,3 +2,6 @@ This is third file.
 What it's about?
 
 The answer in the next file...
+
+Concurrent edition of the file03.txt on branch ak01.
+Why?
