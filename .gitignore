@@ -1,0 +1,11 @@
+.directory
+catboost_info/
+__pycache__/
+.ipynb_checkpoints/
+
+venv
+.idea/
+src.egg-info
+*.ps1
+data/processed/*
+
